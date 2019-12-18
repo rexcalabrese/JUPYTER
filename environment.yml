@@ -1,5 +1,10 @@
-dependencies:	
-  - numpy 
-  - matplotlib
-  - scipy
-
+name: kf_bf
+dependencies:
+- python
+- ipython
+- jupyter
+- matplotlib
+- scipy
+- sympy
+- pip:
+  - filterpy
