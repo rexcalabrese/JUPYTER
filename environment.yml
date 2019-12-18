@@ -3,8 +3,4 @@ dependencies:
   - numpy 
   - matplotlib
   - scipy
-  - pip
-  - pip:
-    - labellines 
-    - mplcursors
- 
+
