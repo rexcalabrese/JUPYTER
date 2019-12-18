@@ -1,7 +1,10 @@
 dependencies:
-  - bokeh
-  - pandas
+	
+  - numpy 
+  - matplotlib
   - scipy
   - pip
   - pip:
-    - jupyter-server-proxy
+    - labellines 
+    - mplcursors
+ 
