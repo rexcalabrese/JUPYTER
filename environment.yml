@@ -5,8 +5,4 @@ dependencies:
 - jupyter
 - matplotlib
 - scipy
-- sympy
-- tabulate
-- pip
-- pip:
-  - filterpy
+
