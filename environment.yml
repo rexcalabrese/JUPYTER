@@ -6,5 +6,6 @@ dependencies:
 - matplotlib
 - scipy
 - sympy
+- tabulate
 - pip:
   - filterpy
